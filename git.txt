@@ -1,0 +1,9 @@
+configuracion de credenciales 
+  correo de githun
+  usuario de github
+
+  git config --global user.name jhojanst
+  git config --global user.email
+
+  1-git init 
+  2- git add
